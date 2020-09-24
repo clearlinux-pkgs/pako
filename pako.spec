@@ -4,7 +4,7 @@
 #
 Name     : pako
 Version  : 0.2.3
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/96/91/bf16a2f64a6628dfbfd9218f0331fbf73655530608ddd2f8fb597fdb9458/pako-0.2.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/96/91/bf16a2f64a6628dfbfd9218f0331fbf73655530608ddd2f8fb597fdb9458/pako-0.2.3.tar.gz
 Summary  : The universal package manager library
